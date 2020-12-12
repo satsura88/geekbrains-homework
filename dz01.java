@@ -2,11 +2,11 @@ package lesson01;
 
 public class dz01 {
     public static void main (String[] args){
-        System.out.println(simpleMath(12, 25, 32, 2)); //проверка 1ого задания
-        System.out.println(sumTrueFalse(10, 10) ); // проверка 2ого задания
-        positiveOrNegative(-5);// проверка 3его задания
-        sayHello("Вася"); // проверка 4ого задания
-        leapYear(2020); // проверка 5ого задания
+        System.out.println(simpleMath(12, 25, 32, 2));  //проверка 1ого задания
+        System.out.println(sumTrueFalse(10, 10) );  // проверка 2ого задания
+        positiveOrNegative(-5); // проверка 3его задания
+        sayHello("Вася");  // проверка 4ого задания
+        leapYear(2020);  // проверка 5ого задания
 
     }
     //1е задание
